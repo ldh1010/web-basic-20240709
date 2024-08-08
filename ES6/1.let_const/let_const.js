@@ -12,7 +12,7 @@
 console.log(x);
 
 // {
-//     let y = 20;
+//     let y = 10;
 // }
 // console.log(y);
 
@@ -23,7 +23,7 @@ console.log(x);
 var x = 10;
 var x = 20;
 
-// let x = 10;
+// let y = 10;
 // let y = 20;
 
 

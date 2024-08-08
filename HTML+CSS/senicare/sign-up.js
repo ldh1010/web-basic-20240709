@@ -208,7 +208,7 @@ function authNumberButtonClickHandler (event) {
 function signUpButtonClickHandler (event) {
     if (!isPossible) return;
     alert('회원가입!');
-    location.href = './sign-in.html';
+    location.href = './sign-in.html';wqd
 }
 
 userNameElement.addEventListener('input', userNameInputHandler);
